@@ -1,0 +1,12 @@
+{
+  "name": "rollup-parcel-bundlesize-comparison",
+  "version": "0.0.1",
+  "description": "Small project to compare the bundle size of a svelte app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
