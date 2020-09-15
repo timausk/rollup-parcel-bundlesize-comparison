@@ -1,0 +1,21 @@
+{
+  "name": "svelte-app-parcel",
+  "version": "0.0.1",
+  "description": "Svelte App with application bundler Parcel",
+  "main": "main.js",
+  "browserslist": [
+    "last 1 chrome versions"
+  ],
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4",
+    "parcel-plugin-svelte": "^4.0.6",
+    "sass": "^1.26.10",
+    "svelte": "^3.25.0"
+  }
+}
