@@ -1,9 +1,9 @@
 <script>
-  import Info from './components/Info.svelte';
-  import FeatureList from './components/FeatureList.svelte';
-  import Event from './components/Event.svelte';
-  import Binding from './components/Binding.svelte';
-  import Transition from './components/Transition.svelte';
+  import Info from '../../_common/svelte/components/Info.svelte';
+  import FeatureList from '../../_common/svelte/components/FeatureList.svelte';
+  import Event from '../../_common/svelte/components/Event.svelte';
+  import Binding from '../../_common/svelte/components/Binding.svelte';
+  import Transition from '../../_common/svelte/components/Transition.svelte';
 	export let name;
 </script>
 
